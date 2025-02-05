@@ -38,7 +38,7 @@ const WeatherApp = () => {
   //app structure
   return (
     <>
-      <div className="main-container flex flex-col items-center justify-center background px-3 py-20  sm:px-15 rounded-lg text-gray-300">
+      <div className="main-container flex flex-col items-center justify-center background px-3 py-16  sm:px-15 rounded-lg text-gray-300">
         {/* time-component  */}
         <TimeComp className="text-gray-400" />
         {/* date component  */}
