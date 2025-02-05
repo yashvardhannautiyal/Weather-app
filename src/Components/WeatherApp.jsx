@@ -55,7 +55,7 @@ const WeatherApp = () => {
             className="border-b border-gray-100 p-2 rounded focus:outline-none text-sm text-gray-400"
           />
           <button onClick={searchFunc} className=" bg- hover:cursor-pointer">
-            <img src="./public/search.png" alt="search_logo" className="h-5" />
+            <img src="./search.png" alt="search_logo" className="h-5" />
           </button>
         </div>
 
